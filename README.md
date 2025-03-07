@@ -1,5 +1,5 @@
 ## Hi! I hope this repository of exercises helps you better understand some Python concepts applied to cybersecurity 🚀🚀
-Tools I used:
+Tools that I used:
 </br>
 <p align="center">
   &emsp;
